@@ -1,1 +1,1 @@
-
+This is the process where we open a file from the directory of the system
