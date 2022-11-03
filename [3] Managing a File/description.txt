@@ -1,0 +1,1 @@
+This is the process where we manage the data within the file system to commit changes and other processes like filtering, sorting an etc.
