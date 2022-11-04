@@ -1,0 +1,5 @@
+C:\Users\carlm\Desktop\G012_Millanes_CarlIrvenNykuluz_Lab-Exercise-01\FileSystem.exe
+C:\Users\carlm\Desktop\G012_Millanes_CarlIrvenNykuluz_Lab-Exercise-01\FileSystem.dll
+C:\Users\carlm\Desktop\G012_Millanes_CarlIrvenNykuluz_Lab-Exercise-01\FileSystem.deps.json
+C:\Users\carlm\Desktop\G012_Millanes_CarlIrvenNykuluz_Lab-Exercise-01\FileSystem.runtimeconfig.json
+C:\Users\carlm\Desktop\G012_Millanes_CarlIrvenNykuluz_Lab-Exercise-01\FileSystem.pdb
