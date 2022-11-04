@@ -1,0 +1,15 @@
+C:\Users\carlm\Desktop\G012_Millanes_CarlIrvenNykuluz_Lab-Exercise-01\SourceCode\FileSystem\bin\Release\net6.0\FileSystem.exe
+C:\Users\carlm\Desktop\G012_Millanes_CarlIrvenNykuluz_Lab-Exercise-01\SourceCode\FileSystem\bin\Release\net6.0\FileSystem.deps.json
+C:\Users\carlm\Desktop\G012_Millanes_CarlIrvenNykuluz_Lab-Exercise-01\SourceCode\FileSystem\bin\Release\net6.0\FileSystem.runtimeconfig.json
+C:\Users\carlm\Desktop\G012_Millanes_CarlIrvenNykuluz_Lab-Exercise-01\SourceCode\FileSystem\bin\Release\net6.0\FileSystem.dll
+C:\Users\carlm\Desktop\G012_Millanes_CarlIrvenNykuluz_Lab-Exercise-01\SourceCode\FileSystem\bin\Release\net6.0\FileSystem.pdb
+C:\Users\carlm\Desktop\G012_Millanes_CarlIrvenNykuluz_Lab-Exercise-01\SourceCode\FileSystem\obj\Release\net6.0\FileSystem.csproj.AssemblyReference.cache
+C:\Users\carlm\Desktop\G012_Millanes_CarlIrvenNykuluz_Lab-Exercise-01\SourceCode\FileSystem\obj\Release\net6.0\FileSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlm\Desktop\G012_Millanes_CarlIrvenNykuluz_Lab-Exercise-01\SourceCode\FileSystem\obj\Release\net6.0\FileSystem.AssemblyInfoInputs.cache
+C:\Users\carlm\Desktop\G012_Millanes_CarlIrvenNykuluz_Lab-Exercise-01\SourceCode\FileSystem\obj\Release\net6.0\FileSystem.AssemblyInfo.cs
+C:\Users\carlm\Desktop\G012_Millanes_CarlIrvenNykuluz_Lab-Exercise-01\SourceCode\FileSystem\obj\Release\net6.0\FileSystem.csproj.CoreCompileInputs.cache
+C:\Users\carlm\Desktop\G012_Millanes_CarlIrvenNykuluz_Lab-Exercise-01\SourceCode\FileSystem\obj\Release\net6.0\FileSystem.dll
+C:\Users\carlm\Desktop\G012_Millanes_CarlIrvenNykuluz_Lab-Exercise-01\SourceCode\FileSystem\obj\Release\net6.0\refint\FileSystem.dll
+C:\Users\carlm\Desktop\G012_Millanes_CarlIrvenNykuluz_Lab-Exercise-01\SourceCode\FileSystem\obj\Release\net6.0\FileSystem.pdb
+C:\Users\carlm\Desktop\G012_Millanes_CarlIrvenNykuluz_Lab-Exercise-01\SourceCode\FileSystem\obj\Release\net6.0\FileSystem.genruntimeconfig.cache
+C:\Users\carlm\Desktop\G012_Millanes_CarlIrvenNykuluz_Lab-Exercise-01\SourceCode\FileSystem\obj\Release\net6.0\ref\FileSystem.dll
